@@ -1,0 +1,24 @@
+[submodule "server/nuga-api-server"]
+	path = server/nuga-api-server
+	url = https://github.com/Yonsei-Maist/nuga-api-server.git
+[submodule "server/nuga-batch-server"]
+	path = server/nuga-batch-server
+	url = https://github.com/Yonsei-Maist/nuga-batch-server.git
+[submodule "server/nuga-front-server"]
+	path = server/nuga-front-server
+	url = https://github.com/Yonsei-Maist/nuga-front-server.git
+[submodule "server/nuga-command-classifier"]
+	path = server/nuga-command-classifier
+	url = https://github.com/Yonsei-Maist/nuga-command-classifier.git
+[submodule "client/NXAI-ANDROID"]
+	path = client/NXAI-ANDROID
+	url = https://github.com/Yonsei-Maist/NXAI-ANDROID.git
+[submodule "client/NXAI-WEB"]
+	path = client/NXAI-WEB
+	url = https://github.com/Yonsei-Maist/NXAI-WEB.git
+[submodule "client/NXAI-RN"]
+	path = client/NXAI-RN
+	url = https://github.com/Yonsei-Maist/NXAI-RN.git
+[submodule "test/nxai-robotframework-appium"]
+	path = test/nxai-robotframework-appium
+	url = https://github.com/Yonsei-Maist/nxai-robotframework-appium.git
